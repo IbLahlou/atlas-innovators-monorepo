@@ -1,4 +1,8 @@
-# 🌐 Atlas Innovator ALLAM LLM
+# 🌐 Atlas Innovator ALLAM LLM 
+
+
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/username/repository/releases/tag/v1.0)
+
 
 ## 🚀 Charting New Territories in Language Intelligence
 
