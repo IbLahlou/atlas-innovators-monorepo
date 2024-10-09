@@ -34,8 +34,8 @@ graph TD
 ## 🧑‍💻 The Innovators Behind Atlas
 
 - **Hicham Moughraoui** - _Language Model Architect_
-- **Ibrahim Lahlou** - _Backend Sorcerer_
-- **Othman Moussaoui** - _Data Whisperer_
+- **Ibrahim Lahlou** - _ML_Backend Sorcerer_
+- **Othman Moussaoui** - _Prompt Data Whisperer_
 - **Ismail Hamdach** - _Frontend Visionary_
 
 ## 🗺️ Repository Landscape
@@ -93,5 +93,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ---
 
 <p align="center">
-  <i>Atlas Innovator ALLAM LLM - Mapping the Future of Language, One Innovation at a Time!</i>
+  <i>Atlas Innovator ALLAM LLM - Let's learn all arabic !</i>
 </p>
