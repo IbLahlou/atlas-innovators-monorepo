@@ -1,22 +1,22 @@
 # 🌐 Atlas Innovator ALLAM LLM 
 
 
-[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/username/repository/releases/tag/v1.0)
-
-
 ## 🚀 Charting New Territories in Language Intelligence
 
 Welcome to the Atlas Innovator ALLAM LLM project – where we're mapping the future of language models!
 
 ICEBOX 1 : LOGO
 
-TO DO 1 : Architecture
-
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/username/repository/releases/tag/v1.0)
 
 
 ## 🧠 Project Overview
 
 Atlas Innovator ALLAM LLM is a cutting-edge Language Learning Model project that aims to push the boundaries of natural language processing and generation. Our monorepo houses both the powerful Django backend and an innovative frontend (TBD), creating a seamless ecosystem for language intelligence.
+
+
+TO DO 1 : Architecture
+
 
 ## 🌟 Key Features
 
